@@ -1,6 +1,6 @@
-# Image-based phenotyping of phosphate-deficient seedlings
+# Image-based phenotyping of phosphate-deficient sugar beet seedlings
 
-Python image analysis of smartphone photos from a hydroponic phosphate (Pi) experiment: plant segmentation, per-plant traits in real units, plant height from side views, deep-learning classification and segmentation, and an automatic folder-to-CSV pipeline.
+Python image analysis of smartphone photos from a hydroponic sugar beet (Beta vulgaris) phosphate (Pi) experiment: plant segmentation, per-plant traits in real units, plant height from side views, deep-learning classification and segmentation, and an automatic folder-to-CSV pipeline.
 
 Built as a structured self-study project in plant-phenotyping computer vision, using photos from my own experiment.
 
@@ -8,7 +8,7 @@ Built as a structured self-study project in plant-phenotyping computer vision, u
 
 ## Experiment
 
-Seedlings grew in hydroponic boxes (rim 35 × 25 cm, 14 cm tall, 10 pots each) at five phosphate levels: P0 (0 µM Pi), LP (5), P20 (20), OP (70, optimal) and P150 (150). The results below compare one OP box and one LP box photographed on 30 April 2026 (iPhone, 4032 × 3024).
+Sugar beet seedlings grew in hydroponic boxes (rim 35 × 25 cm, 14 cm tall, 10 pots each) at five phosphate levels: P0 (0 µM Pi), LP (5), P20 (20), OP (70, optimal) and P150 (150). The results below compare one OP box and one LP box photographed on 30 April 2026 (iPhone, 4032 × 3024).
 
 ## Key results (OP vs LP, 9 plants each)
 
