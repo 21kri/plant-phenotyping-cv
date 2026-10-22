@@ -1,0 +1,15 @@
+# Raw experiment photos and generated datasets (unpublished data, large)
+data/
+
+# Generated results and trained models (re-created by running the scripts)
+outputs/
+*.pt
+
+# Personal tutor notes and editor settings
+CLAUDE.md
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
